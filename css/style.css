@@ -95,7 +95,7 @@ link:focus{
     outline: 3px solid #FFD700;
 }
 
-p:last-child{
+main p:last-child{
     color:rgb(29, 15, 117);
 }
 
